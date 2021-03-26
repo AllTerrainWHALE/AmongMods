@@ -1,5 +1,6 @@
 Installation Instruction
-- 
+-
+**Make sure you delete any previous versions, but you do NOT need to delete the 'Mods' folder**
 1. Go to your Among Us local files ( Right Click on Among Us -> Manage -> Browse Local Files ), and from there click on the 'common' folder on the directory bar at the top
 2. In that folder create a new folder. This can be named whatever you want and it will hold the AmongMods Launcher and Mods folder.
 3. Download the latest release and unzip the .zip file in the folder you create in step 2.
