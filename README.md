@@ -2,6 +2,7 @@ Installation Instruction
 -
 **Make sure you delete any previous versions, but you do NOT need to delete the 'Mods' folder**
 1. Go to your Among Us local files ( Right Click on Among Us -> Manage -> Browse Local Files ), and from there click on the 'common' folder on the directory bar at the top
+![image](https://user-images.githubusercontent.com/63456304/112727284-c5c66500-8f19-11eb-9513-af9c18d4d39f.png)
 2. In that folder create a new folder. This can be named whatever you want and it will hold the AmongMods Launcher and Mods folder.
 3. Download the latest release and unzip the .zip file in the folder you create in step 2.
 4. Go into the folder that was unzipped which will be called 'AmongMods' + the version you installed ( e.g 'AmongMods-v1.0' ) and launch the .exe file that should be named the exact same as the folder you are in, and it will have an icon of a green Among Us character on a blue background.
