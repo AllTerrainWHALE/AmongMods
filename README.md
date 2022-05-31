@@ -1,6 +1,6 @@
 Installation Instructions
 -
-1. Download and unzip the latest version of AmongMods.zip
+1. Download and unzip the latest version of AmongMods.zip by right clicking the zip file and selecting *Extract Here*.
 2. Other than remembering where you downloaded the launcher to, that's literally it.
 3. Run the AmongMods.exe executable in the unzipped file to access the launcher.
 4. If you really want to, right click on the AmongMods.exe file and select *Create Shortcut* which you can then place anywhere on your system.
